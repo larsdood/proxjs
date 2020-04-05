@@ -1,6 +1,6 @@
 {
   "name": "proxjs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "a collection of useful rxjs creator functions, operators and others",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -13,7 +13,6 @@
   },
   "author": "Lars Holdaas",
   "license": "ISC",
-  "files": ["dist"],
   "dependencies": {
     "rxjs": "^6.5.4"
   },
